@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br>
 
-- 🔭 I’m currently working on [refactoring the webhaak webhook app to FastAPI and RQ](https://github.com/aquatix/webhaak)
+- 🔭 I’m currently working on [refactoring the webhaak webhook app to FastAPI and RQ](https://github.com/aquatix/webhaak/tree/rq)
 - 🌱 I’m currently learning <strong>to delegate :)</strong>
 - ⚡ Fun fact **I'm not always wearing sunglasses inside. Headphones on the other hand...**
 
