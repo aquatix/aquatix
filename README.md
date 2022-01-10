@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=aquatix&show_icons=true&theme=dark&locale=en" alt="aquatix" /></p>
 <p><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=aquatix&theme=dark" alt="aquatix" /></p>
 
+<br><br><br><br><br><br><br><br>
+
 - 🔭 I’m currently working on [refactoring the webhaak webhook app to FastAPI and RQ](https://github.com/aquatix/webhaak)
 - 🌱 I’m currently learning <strong>to delegate :)</strong>
 - ⚡ Fun fact **I'm not always wearing sunglasses inside. Headphones on the other hand...**
