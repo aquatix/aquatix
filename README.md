@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <br><br><br><br><br><br><br><br>
 
-- 🔭 I’m currently working on [teaching the webhaak webhook app to comprehend pull requests](https://github.com/aquatix/webhaak)
-- 🌱 I’m currently learning <strong>to delegate :)</strong>
+- 🔭 I’m currently working on [rewriting digimarks in FastAPI and Vue 3](https://github.com/aquatix/digimarks/tree/fastapi)
+- 🌱 I’m currently learning <strong>Typescript and Vue 3</strong>
 - ⚡ Fun fact **I'm not always wearing sunglasses inside. Headphones on the other hand...**
 
 ![aquatix profile views](https://komarev.com/ghpvc/?username=aquatix&label=Profile%20views&color=db654b&style=flat-square)
